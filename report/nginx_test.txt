@@ -1,0 +1,28 @@
+=== Проверка работы nginx на web-a ===
+Warning: Permanently added '84.201.130.92' (ED25519) to the list of known hosts.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome to web-a</title>
+</head>
+<body>
+    <h1>Success! Nginx is running on web-a</h1>
+    <p>This server was configured with Ansible.</p>
+</body>
+</html>
+Connection to 84.201.130.92 closed.
+
+
+=== Проверка работы nginx на web-b ===
+Warning: Permanently added '84.201.130.92' (ED25519) to the list of known hosts.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome to web-b</title>
+</head>
+<body>
+    <h1>Success! Nginx is running on web-b</h1>
+    <p>This server was configured with Ansible.</p>
+</body>
+</html>
+Connection to 84.201.130.92 closed.

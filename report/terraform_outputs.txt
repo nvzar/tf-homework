@@ -1,0 +1,4 @@
+bastion_private_ip = "192.168.10.9"
+bastion_public_ip = "84.201.130.92"
+web_a_private_ip = "192.168.10.32"
+web_b_private_ip = "192.168.10.25"
