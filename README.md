@@ -276,7 +276,7 @@ ssh ubuntu@<bastion_ip> -t "curl http://<web-b_private_ip>"
 
 текст
 terraform destroy -auto-approve
-⚠️ Важно : Это удалить все виртуальные машины и сетевые ресурсы!
+
 
 
 
