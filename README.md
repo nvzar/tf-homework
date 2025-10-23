@@ -262,6 +262,8 @@ terraform apply -auto-approve
 ansible-playbook -i inventory.ini install_nginx.yml
 Проверить работу
 
+![nginx](screenshots/nginx_ansible.png)
+
 текст
 # Получить IP адреса
 terraform output
